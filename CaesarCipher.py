@@ -1,5 +1,4 @@
-SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345
-67890'
+SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890'
 
 print('The Caesar cipher encrypts letters by shifting them over by a')
 print('key number. For example, a key of 2 means the letter A is')
